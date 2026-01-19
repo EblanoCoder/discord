@@ -1,0 +1,8 @@
+{
+  "name": "Orbita",
+  "description": "A robust, high-performance communication platform designed for the post-2026 landscape. Features text chat, servers, and AI-enhanced low-latency voice channels.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
